@@ -1,2 +1,2 @@
 # SO
-Concurrent programming / C
+Operating systems & concurrent programming / C
